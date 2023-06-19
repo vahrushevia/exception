@@ -1,5 +1,5 @@
 package homework_1.task1;
-
+// s
 public class Application {
 
     // Метод, генерирующий NumberFormatException
