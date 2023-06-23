@@ -32,7 +32,7 @@ public class UserDataApplication {
             validateGender(gender);
 
             String lastName = getLastName(fullName);
-            String fileName = lastName + ".txt";
+            String fileName = data[0] + ".txt";
 
             String formattedData = formatData(fullName, birthDate, phoneNumber, gender);
 
